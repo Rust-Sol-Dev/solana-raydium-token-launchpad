@@ -1,5 +1,6 @@
 {
   "name": "next14-tailwindcss-typescript-solana-wallet-integration",
+  "author": "MrRust",
   "version": "0.1.0",
   "private": true,
   "scripts": {
